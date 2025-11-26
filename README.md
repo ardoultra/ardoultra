@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CA33FF&height=200&section=header&text=Guillermo%20Rivera%&fontSize=40&fontColor=ffffff"/>
 
-<h1>Guillermo  Rivera </h1>
-
 **Ingeniero en Tecnología de Software (en formación)**  
 Facultad de Ingeniería Mecánica y Eléctrica  
 2022 – Presente  
