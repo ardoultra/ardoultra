@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CA33FF&height=200&section=header&text=Guillermo%20Eduardo%20Rivera%20Eguía&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CA33FF&height=200&section=header&text=Guillermo%20Rivera%&fontSize=40&fontColor=ffffff"/>
 
-<h1>Guillermo Eduardo Rivera Eguía</h1>
+<h1>Guillermo  Rivera </h1>
 
 **Ingeniero en Tecnología de Software (en formación)**  
 Facultad de Ingeniería Mecánica y Eléctrica  
