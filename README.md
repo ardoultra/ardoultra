@@ -50,20 +50,6 @@ Estudiante de Ingenieria en Tecnologia de Software en la Facultad de Ingenieria 
 
 ---
 
-### Certificaciones
-
-| Certificacion | Plataforma |
-|---|---|
-| GitHub Foundations | GitHub |
-| EF SET English Certificate | EF Education First |
-| JavaScript (Basic) | HackerRank |
-| CSS | HackerRank |
-| Cisco CCNA Fundamentos | Udemy Business |
-
-> Actualizando conforme avanzo en mi plan de estudio. Meta: 15+ certificaciones en 2026.
-
----
-
 ### Proyectos destacados
 
 | Proyecto | Descripcion | Tecnologias |
@@ -73,29 +59,11 @@ Estudiante de Ingenieria en Tecnologia de Software en la Facultad de Ingenieria 
 
 ---
 
-### Contacto
-
-<div align="center">
-
-<a href="mailto:guillermorew@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/guillermo-rivera-eguia">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://ardoultra.github.io/plan-estudio/">
-  <img src="https://img.shields.io/badge/Plan%20de%20Estudio-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ardoultra&color=7c3aed&style=flat-square&label=visitas"/>
 
-<sub>Estudiante de ISW en FIME | En camino a fullstack developer</sub>
+<sub>Estudiante de ITS en FIME | En camino a fullstack developer</sub>
 
 </div>
 
