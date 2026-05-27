@@ -73,23 +73,6 @@ Estudiante de Ingenieria en Tecnologia de Software en la Facultad de Ingenieria 
 
 ---
 
-### Estadisticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ardoultra&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0a0b10&title_color=22d3ee&icon_color=a78bfa&text_color=94a3b8" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ardoultra&theme=tokyonight&hide_border=true&background=0a0b10&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee" height="160"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardoultra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0b10&title_color=22d3ee&text_color=94a3b8" height="140"/>
-
-</div>
-
----
-
 ### Contacto
 
 <div align="center">
