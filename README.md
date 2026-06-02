@@ -12,24 +12,6 @@ Estudiante de Ingenieria en Tecnologia de Software en la Facultad de Ingenieria 
 
 ---
 
-### Lo que uso ahora
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
 ### Roadmap de aprendizaje
 
 > Tecnologias que iré incorporando conforme avance en mi plan de estudios y suba proyectos que las respalden.
@@ -62,8 +44,8 @@ Estudiante de Ingenieria en Tecnologia de Software en la Facultad de Ingenieria 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ardoultra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardoultra&layout=donut&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardoultra&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardoultra&theme=tokyonight"/>
 
 </div>
 
