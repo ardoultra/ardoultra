@@ -14,22 +14,13 @@ Estudiante de Ingenieria en Tecnologia de Software en la Facultad de Ingenieria 
 
 ### Roadmap de aprendizaje
 
-> Tecnologias que iré incorporando conforme avance en mi plan de estudios y suba proyectos que las respalden.
+> Tecnologias que estoy aprendiendo esta semana (Semana 1: fundamentos de programacion, editor y terminal).
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=339933)
-![NestJS](https://img.shields.io/badge/NestJS-20232A?style=flat-square&logo=nestjs&logoColor=E0234E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED)
-![Flutter](https://img.shields.io/badge/Flutter-20232A?style=flat-square&logo=flutter&logoColor=02569B)
-![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB)
-![Angular](https://img.shields.io/badge/Angular-20232A?style=flat-square&logo=angular&logoColor=DD0031)
-![Vue.js](https://img.shields.io/badge/Vue.js-20232A?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-20232A?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Go](https://img.shields.io/badge/Go-20232A?style=flat-square&logo=go&logoColor=00ADD8)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </div>
 
@@ -50,17 +41,7 @@ Estudiante de Ingenieria en Tecnologia de Software en la Facultad de Ingenieria 
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardoultra&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardoultra&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardoultra&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardoultra&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ardoultra&theme=tokyonight&hide_border=true"/>
+<img src="./github-metrics.svg" alt="Metrics"/>
 
 </div>
 
