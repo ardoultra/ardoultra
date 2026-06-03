@@ -1,0 +1,48 @@
+name: Metrics
+
+on:
+  # Se ejecuta automaticamente todos los dias a medianoche (hora UTC)
+  schedule:
+    - cron: "0 0 * * *"
+  # Permite ejecutarlo manualmente desde la pestana Actions
+  workflow_dispatch:
+  # Tambien se ejecuta cuando haces push a main
+  push:
+    branches: ["main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generar metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Token que crearas en el Paso 1 y guardaras como secret en el Paso 2
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Tu usuario de GitHub
+          user: ardoultra
+
+          # Nombre del archivo de salida (el README lo referencia como ./github-metrics.svg)
+          filename: github-metrics.svg
+
+          # Plantilla y tema
+          template: classic
+          base: ""
+          config_timezone: America/Mexico_City
+
+          # ───────── Panel 1: Indepth analysis (lenguajes detallados) ─────────
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+
+          # ───────── Panel 2: Coding habits and activity ─────────
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
