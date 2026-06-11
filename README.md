@@ -6,21 +6,36 @@
 
 Estudiante de Ingenieria en Tecnologia de Software en la Facultad de Ingenieria Mecanica y Electrica (FIME), Nuevo Leon, Mexico. Aprendiendo desarrollo fullstack con el stack de JavaScript/TypeScript de forma constante y disciplinada. Construyendo proyectos reales mientras avanzo en mi plan de estudios.
 
-- Actualmente trabajando con: **TypeScript**, fundamentos de **Bash/terminal** y **Git**
+- Bases completadas en: **JavaScript**, **TypeScript** y **VS Code**
+- Actualmente trabajando con: fundamentos de **Bash/terminal** y **Git**
 - Aprendiendo a fondo antes de pasar al siguiente tema
 - Objetivo: practicas profesionales como desarrollador fullstack
 
 ---
 
-### Roadmap de aprendizaje
+### Conocimientos base
 
-> Tecnologias que estoy aprendiendo esta semana (Semana 1: fundamentos de programacion, editor y terminal).
+> Fundamentos que ya complete y aplico en mis proyectos.
 
 <div align="center">
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+### Roadmap de aprendizaje
+
+> Tecnologias que estoy aprendiendo actualmente.
+
+<div align="center">
+
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -40,19 +55,15 @@ Estudiante de Ingenieria en Tecnologia de Software en la Facultad de Ingenieria 
 ### Estadisticas
 
 <div align="center">
-
 <img src="./github-metrics.svg" alt="Metrics"/>
-
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=ardoultra&color=7c3aed&style=flat-square&label=visitas"/>
 
 <sub>Estudiante de ITS en FIME | En camino a fullstack developer</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b10,50:7c3aed,100:22d3ee&height=100&section=footer"/>
-
 </div>
